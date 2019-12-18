@@ -1,2 +1,3 @@
-# test-node-gyp
-Sample project to test node-gyp warnings
+# test-bluetooth-serial-port
+
+Sample project to test bluetooth-serial-port warnings during "npm install"
