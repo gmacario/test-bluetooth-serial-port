@@ -10,5 +10,9 @@
   "license": "MIT",
   "dependencies": {
     "bluetooth-serial-port": "^2.2.6"
+  },
+  "devDependencies": {
+    "electron": "^7.1.7",
+    "electron-builder": "^21.2.0"
   }
 }
