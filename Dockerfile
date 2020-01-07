@@ -1,5 +1,6 @@
+FROM node:12.14.0
 # FROM node:12.13.1
-FROM node:11.10.0
+# FROM node:11.10.0
 # FROM node:10.17.0
 # FROM node:8.16.2
 # FROM node:7.8.0

@@ -1,5 +1,5 @@
 {
-  "name": "test-node-gyp",
+  "name": "test-bluetooth-serial-port",
   "version": "0.0.1",
   "description": "Testing node-gyp install warnings",
   "main": "index.js",
@@ -9,7 +9,7 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
-    "bluetooth-serial-port": "^2.2.6"
+    "bluetooth-serial-port": "^2.2.7"
   },
   "devDependencies": {
     "electron": "^7.1.7",
